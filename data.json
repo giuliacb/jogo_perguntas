@@ -1,0 +1,1204 @@
+{
+  "perguntas": [
+    {
+      "id": 1,
+      "pergunta": "O que são Acordo de Paris e Tríplice Aliança respectivamente?",
+      "item_a": "Acordo ortográfico entre países cuja língua oficial é o francês e Acordo de cooperação financeira internacional entre as três maiores potências mundiais",
+      "item_b": "Acordo entre vários países acerca das consequências do aquecimento global e Acordo entre Alemanha, império Austro-Húngaro e Itália acerca de apoio em caso de guerra",
+      "item_c": "Acordo entre países europeus acerca da imigração e Acordo econômico entre Inglaterra, Rússia a França",
+      "item_d": "Acordo de cooperação financeira internacional entre as três maiores potências mundiais e Acordo entre vários países acerca das consequências do aquecimento global",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },
+    {
+      "id": 2,
+      "pergunta": "Em que ano e quem foi eleito o primeiro presidente do Brasil?",
+      "item_a": "1891, Deodoro da Fonseca",
+      "item_b": "1890, Floriano Peixoto",
+      "item_c": "1889, Hermes da Fonseca",
+      "item_d": "1930, Getúlio Vargas",
+      "gabarito": "item_a",
+      "categoria": "História"
+    },    
+    {
+      "id": 3,
+      "pergunta": "Dentre os legados dos gregos da Antiguidade Clássica que se mantêm na vida contemporânea, podemos citar:",
+      "item_a": "a concepção de democracia com a participação do voto universal",
+      "item_b": "a promoção do espírito de confraternização por intermédio do esporte e de jogos",
+      "item_c": "a idealização e a valorização do trabalho manual em todas as suas dimensões",
+      "item_d": "os planejamentos urbanísticos segundo padrões das cidades acrópoles",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },    
+    {
+      "id": 4,
+      "pergunta": "Dos fenômenos abaixo citados, assinale aquele que é considerado como o causador da Primeira Guerra Mundial.",
+      "item_a": "O assassinato da família imperial russa",
+      "item_b": "O descumprimento do Tratado de Versalhes por parte da Alemanha",
+      "item_c": "O fim do colonialismo africano",
+      "item_d": "O assassinato do arquiduque Francisco Ferdinando, herdeiro do trono austríaco",
+      "gabarito": "item_d",
+      "categoria": "História"
+    },
+    {
+      "id": 5,
+      "pergunta": "Selecione a alternativa que apresenta uma fase da Primeira Guerra Mundial.",
+      "item_a": "Corrida nuclear",
+      "item_b": "Guerra de Trincheiras",
+      "item_c": "Avanço do Exército Vermelho",
+      "item_d": "Derrota do Eixo",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual país fazia parte da Tríplice Aliança, mas se recusou a participar da guerra por esse grupo quando o conflito se iniciou em 1914?",
+      "item_a": "Itália",
+      "item_b": "Império Otomano",
+      "item_c": "Áustria-Hungria",
+      "item_d": "Bulgária",
+      "gabarito": "item_a",
+      "categoria": "História"
+    },
+    {
+      "id": 7,
+      "pergunta": "Quando aconteceu a Revolução Russa?",
+      "item_a": "1877",
+      "item_b": "1917",
+      "item_c": "1945",
+      "item_d": "1984",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },    
+    {
+      "id": 8,
+      "pergunta": "Quais estados brasileiros participaram do período histórico do Brasil chamado como República do Café com Leite?",
+      "item_a": "Minas Gerais e São Paulo",
+      "item_b": "Minas Gerais e Rio de Janeiro",
+      "item_c": "Rio de Janeiro e São Paulo",
+      "item_d": "São Paulo e Acre",
+      "gabarito": "item_a",
+      "categoria": "História"
+    },    
+    {
+      "id": 9,
+      "pergunta": "Quantos anos durou a Guerra dos Cem Anos",
+      "item_a": "90 anos",
+      "item_b": "100 anos",
+      "item_c": "110 anos",
+      "item_d": "116 anos",
+      "gabarito": "item_d",
+      "categoria": "História"
+    },    
+    {
+      "id": 10,
+      "pergunta": "Qual desses nomes está associado à Guerra de Canudos?",
+      "item_a": "Antônio Conselheiro",
+      "item_b": "Lampião",
+      "item_c": "Tiradentes",
+      "item_d": "Caetano Veloso",
+      "gabarito": "item_a",
+      "categoria": "História"
+    },    
+    {
+      "id": 11,
+      "pergunta": "Quais países participaram da Guerra do Paraguai?",
+      "item_a": "Paraguai, Brasil, Uruguai e Argentina",
+      "item_b": "Paraguai, Chile, Uruguai e Argentina",
+      "item_c": "Paraguai, Peru, Venezuela e Argentina",
+      "item_d": "Paraguai, Chile, Equador e Venezuela",
+      "gabarito": "item_a",
+      "categoria": "História"
+    },    
+    {
+      "id": 12,
+      "pergunta": "Quais cidades já foram capital do Brasil?",
+      "item_a": "São Paulo e Ouro Preto",
+      "item_b": "Brasília e São Paulo",
+      "item_c": "Rio de Janeiro e Salvador",
+      "item_d": "Rio de Janeiro e Minas Gerais",
+      "gabarito": "item_c",
+      "categoria": "História"
+    },    
+    {
+      "id": 13,
+      "pergunta": "Quando começou a Idade Média",
+      "item_a": "476",
+      "item_b": "1000",
+      "item_c": "1500",
+      "item_d": "1789",
+      "gabarito": "item_a",
+      "categoria": "História"
+    },    
+    {
+      "id": 14,
+      "pergunta": "Qual foi o último país da América do Sul a acabar com a escravidão?",
+      "item_a": "Bolívia",
+      "item_b": "Brasil",
+      "item_c": "Uruguai",
+      "item_d": "Argentina",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },
+    {
+      "id": 15,
+      "pergunta": "Qual desses fatos não aconteceu durante a Ditadura Militar no Brasil?",
+      "item_a": "Lei de Segurança Nacional",
+      "item_b": "Massacre do Carandiru",
+      "item_c": "AI-5",
+      "item_d": "30º Congresso da UNE ",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },
+    {
+      "id": 16,
+      "pergunta": "Quais desses momentos da história do Brasil não aconteceu em São Paulo?",
+      "item_a": "Semana da Arte Moderna de 1922",
+      "item_b": "Marcha da Família com Deus pela Liberdade",
+      "item_c": "Independência do Brasil",
+      "item_d": "Morte de Getúlio Vargas",
+      "gabarito": "item_d",
+      "categoria": "História"
+    },
+    {
+      "id": 17,
+      "pergunta": "Qual dessas revoluções aconteceu na história do Brasil?",
+      "item_a": "Revolção dos Padres",
+      "item_b": "Revolção dos Padeiros",
+      "item_c": "Revolção dos Políticos",
+      "item_d": "Revolção dos Bárbaros",
+      "gabarito": "item_a",
+      "categoria": "História"
+    },
+    {
+      "id": 18,
+      "pergunta": "Marque os 4 países que nunca tentaram invadir o Brasil",
+      "item_a": "Itália, França, Inglaterra, Chile",
+      "item_b": "Itália, Japão, Venezuela, Chile",
+      "item_c": "Holanda, Inglaterra, Itália, Alemanha",
+      "item_d": "Venezuela, França, Inglaterra, Portugal",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },
+    {
+      "id": 19,
+      "pergunta": "Em janeiro de 2021, o Capitólio, prédio em que se encontra o Congresso dos Estados Unidos, foi invadido por manifestantes fazendo 5 mortos. Que evento estava acontecendo?",
+      "item_a": "A tomada de posse de Joe Biden como presidentes dos Estados Unidos",
+      "item_b": "A ratificação da vitória de Joe Biden para a presidência dos Estados Unidos",
+      "item_c": "Sessão especial de homenagem a Martin Luther King Jr",
+      "item_d": "A tomada de posse de Donald Trump como presidentes dos Estados Unidos",
+      "gabarito": "item_b",
+      "categoria": "História"
+    },
+    {
+      "id": 20,
+      "pergunta": "Quanto ao projeto de criação da moeda comum entre Brasil e Argentina, qual dessas alternativas é verdadeira?",
+      "item_a": "seu nome será MCBA (sigla de moeda comum entre Brasil e Argentina)",
+      "item_b": "seu nome será URV (sigla de unidade real de valor)",
+      "item_c": "uma das razões para a sua criação é dispensar o uso do dólar nas transações comerciais entre os dois países",
+      "item_d": "substituirá o real brasileiro e o peso argentino",
+      "gabarito": "item_c",
+      "categoria": "História"
+    },
+    {
+      "id": 21,
+      "pergunta": "Qual destes países é transcontinental?",
+      "item_a": "Rússia",
+      "item_b": "Filipinas",
+      "item_c": "Marrocos",
+      "item_d": "Groenlândia",
+      "gabarito": "item_a",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 22,
+      "pergunta": "O Equador faz fronteira com dois países, quais?",
+      "item_a": "com o Brasil e com a Colômbia",
+      "item_b": "com a Colômbia e com a Venezuela",
+      "item_c": "com a Colômbia e com o Peru",
+      "item_d": " com o Equador e o Brasil",
+      "gabarito": "item_c",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual é o maior arquipélago da Terra?",
+      "item_a": "a Filipinas",
+      "item_b": "a Indonésia",
+      "item_c": "as Bahamas",
+      "item_d": "as Maldivas",
+      "gabarito": "item_b",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 24,
+      "pergunta": "O que é Brexit?",
+      "item_a": "Saída do Reino Unido da Zona Euro",
+      "item_b": "Saída do Reino Unido da União Europeia",
+      "item_c": "Saída da Inglaterra do Reino Unid",
+      "item_d": "Mudança do sistema de governo no Reino Unido",
+      "gabarito": "item_b",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 25,
+      "pergunta": "Qual a função da ONU?",
+      "item_a": "Zelar pela cultura em todas as nações",
+      "item_b": "Unir as nações com o objetivo de manter a paz e a segurança mundial",
+      "item_c": "Financiar países em desenvolvimento",
+      "item_d": "Regular o funcionamento do sistema financeiro a nível internacional",
+      "gabarito": "item_b",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 26,
+      "pergunta": "Dentre os elementos abaixo enumerados, assinale aquele que não é um fenômeno atmosférico:",
+      "item_a": "Variação de temperatura",
+      "item_b": "Índice de umidade",
+      "item_c": "Formação de nuvens",
+      "item_d": "Derretimento de geleiras",
+      "gabarito": "item_d",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 27,
+      "pergunta": "O movimento de translação consiste na",
+      "item_a": "ocorrência do processo de movimentação da Terra ao redor de si mesma ao longo do dia",
+      "item_b": "deslocação da Terra ao redor de si mesma ao longo de 24 horas",
+      "item_c": "trajetória que a Terra faz ao redor do Sol durante 360 dias terrestres",
+      "item_d": "movimentação que a Terra realiza em torno do Sol ao longo de aproximadamente 365 dias",
+      "gabarito": "item_d",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 28,
+      "pergunta": "O movimento de rotação, ou seja, o movimento realizado pela Terra em torno do seu próprio eixo ocorre na direção",
+      "item_a": "noroeste para norte",
+      "item_b": "leste para oeste",
+      "item_c": "oeste para leste",
+      "item_d": "norte para sul",
+      "gabarito": "item_c",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 29,
+      "pergunta": "A dinâmica da circulação atmosférica e marítima é alterada, para além de questões climáticas, por um determinado movimento terrestre, chamado de",
+      "item_a": "precessão",
+      "item_b": "nutação",
+      "item_c": "translação",
+      "item_d": "rotação",
+      "gabarito": "item_d",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 30,
+      "pergunta": "A pirâmide etária tem como objetivo principal a",
+      "item_a": "análise sobre a evolução demográfica de uma determinada população",
+      "item_b": "divisão dos países por meio de suas características econômicas",
+      "item_c": "síntese de dados populacionais subjetivos de uma sociedade",
+      "item_d": "previsão exata do cenário populacional para as próximas décadas",
+      "gabarito": "item_a",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 31,
+      "pergunta": "As pirâmides etárias são representações gráficas fundamentais para o estudo da geografia das populações. Quais são as duas variáveis utilizadas nesses gráficos?",
+      "item_a": "natalidade e gênero",
+      "item_b": "renda e idade",
+      "item_c": "sexo e mortandade",
+      "item_d": "idade e sexo",
+      "gabarito": "item_d",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 32,
+      "pergunta": "A fonte de energia básica da primeira Revolução Industrial, na Grã-Bretanha, no século XVIII, foi:",
+      "item_a": "Petróleo",
+      "item_b": "Gás natural",
+      "item_c": "Carvão Mineral",
+      "item_d": "Energia Nuclear",
+      "gabarito": "item_c",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 33,
+      "pergunta": "A energia solar é um tipo de energia que está em ascensão na atualidade. Um termo que caracteriza corretamente esse tipo de energia é",
+      "item_a": "não renovável",
+      "item_b": "poluente",
+      "item_c": "renovável",
+      "item_d": "tradicional",
+      "gabarito": "item_c",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 34,
+      "pergunta": "Assinale apenas a alternativa que apresenta características referentes ao fenômeno inversão térmica:",
+      "item_a": "Fenômeno no qual há aumento da temperatura do planeta em decorrência da retenção do calor por alguns gases presentes na atmosfera",
+      "item_b": "Fenômeno causado pela poluição atmosférica, principalmente em decorrência da queima de combustíveis fósseis, causando graves problemas ambientais e nas cidades",
+      "item_c": "Fenômeno atmosférico comum nos centros urbanos industrializados no qual o ar frio é impedido de circular por uma camada de ar quente, alterando as temperaturas",
+      "item_d": "Fenômeno climático que ocorre nos centros urbanos, principalmente em cidades com elevado grau de urbanização, nas quais as temperaturas aumentam bastante se comparadas às das zonas rurais",
+      "gabarito": "item_c",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 35,
+      "pergunta": "Qual dos acontecimentos seguintes não teve relação com a Guerra Fria:",
+      "item_a": "Guerra Civil Espanhola",
+      "item_b": "Guerra da Coreia",
+      "item_c": "Revolução Cubana",
+      "item_d": "Guerra do Afeganistão",
+      "gabarito": "item_a",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 36,
+      "pergunta": "O Plano Marshall foi uma das ações do governo norte-americano motivadas pela rivalidade na Guerra Fria. Esse plano propunha:",
+      "item_a": "o financiamento da reconstrução de países europeus destruídos pela Segunda Guerra",
+      "item_b": "a realização de golpes militares no sul da Europa",
+      "item_c": "o envio de espiões para executar as lideranças de esquerda na Europa Ocidental",
+      "item_d": "a imposição de embargos para os países da Europa Ocidental que não aderiram à Otan",
+      "gabarito": "item_a",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 37,
+      "pergunta": "Assinale a alternativa que apresenta uma das causas dos problemas de mobilidade urbana nas cidades:",
+      "item_a": "Redução do preço das passagens dos transportes de uso coletivo",
+      "item_b": "Processo de migração presente nas grandes regiões metropolitanas",
+      "item_c": "Incentivo ao uso de meios de transporte arcaicos, como a bicicleta",
+      "item_d": "Aumento do número de veículos individuais presentes nas cidades",
+      "gabarito": "item_d",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 38,
+      "pergunta": "Uma opção para fomentar a melhoria da mobilidade urbana é a",
+      "item_a": "elevação dos impostos para veículos urbanos",
+      "item_b": "utilização de veículos altamente poluentes",
+      "item_c": "proibição do uso de carros em toda a cidade",
+      "item_d": "integração entre os sistemas de transporte",
+      "gabarito": "item_d",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 39,
+      "pergunta": "A ilha de calor é um evento climático de origem antrópica marcado pela",
+      "item_a": "ampliação de fenômenos do clima somente de origem natural",
+      "item_b": "precipitação de chuvas com alta carga de poluentes químicos",
+      "item_c": "concentração de poluentes causada por energias renováveis",
+      "item_d": "elevação da temperatura ocasionada pelo adensamento urbano",
+      "gabarito": "item_d",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 40,
+      "pergunta": "Marque a alternativa que apresenta objetos e equipamentos artificiais que contribuem para a formação das ilhas de calor:",
+      "item_a": "Fábricas, avenidas e edifícios",
+      "item_b": "Ruas, praças e residências",
+      "item_c": "Imóveis comerciais, rios e pontes",
+      "item_d": "Pontes, lagoas e indústrias",
+      "gabarito": "item_a",
+      "categoria": "Geografia"
+    },
+    {
+      "id": 41,
+      "pergunta": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+      "item_a": "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+      "item_b": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+      "item_c": "Tem 10 litros. São retirados 2 litros",
+      "item_d": "Tem 7 litros. São retirados 1,5 litros",
+      "gabarito": "item_b",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 42,
+      "pergunta": "Em que ordem surgiram os modelos atômicos?",
+      "item_a": "Rutherford-Bohr, Rutherford, Thomson, Dalton",
+      "item_b": "Dalton, Rutherford-Bohr, Thomson, Rutherford",
+      "item_c": "Thomson, Dalton, Rutherford, Rutherford-Bohr",
+      "item_d": "Dalton, Thomson, Rutherford, Rutherford-Bohr",
+      "gabarito": "item_d",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 43,
+      "pergunta": "Qual o maior animal terrestre?",
+      "item_a": "Baleia Azul",
+      "item_b": "Dinossauro",
+      "item_c": "Elefante africano",
+      "item_d": "Girafa",
+      "gabarito": "item_c",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 44,
+      "pergunta": "Quais são os cromossomos que determinam o sexo masculino?",
+      "item_a": "Os V",
+      "item_b": "Os X",
+      "item_c": "Os Y",
+      "item_d": "Os W",
+      "gabarito": "item_c",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 45,
+      "pergunta": "Como se chamam os vasos que transportam sangue do coração para a periferia do corpo?",
+      "item_a": "veias",
+      "item_b": "átrios",
+      "item_c": "ventrículos",
+      "item_d": "artérias",
+      "gabarito": "item_d",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 46,
+      "pergunta": "Que substância é absorvida pelas plantas e expirada por todos os seres vivos?",
+      "item_a": "o oxigênio",
+      "item_b": "o dióxido de carbono",
+      "item_c": "o nitrato de sódio",
+      "item_d": "o dióxido de ferro",
+      "gabarito": "item_b",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 47,
+      "pergunta": "Quais dos órgãos abaixo pertencem ao sistema respiratório?",
+      "item_a": "Laringe e traqueia",
+      "item_b": "Pulmões e faringe",
+      "item_c": "Esôfago e brônquios",
+      "item_d": "Pâncreas e vasos sanguíneo",
+      "gabarito": "item_a",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 48,
+      "pergunta": "Qual o nome do cientista que descobriu o processo de pasteurização e a vacina contra a raiva?",
+      "item_a": "Marie Curie",
+      "item_b": "Blaise Pascal",
+      "item_c": "Louis Pasteur",
+      "item_d": "Charles Darwin",
+      "gabarito": "item_c",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 49,
+      "pergunta": "O corpo humano é dividido em 3 partes fundamentais, quais são elas?",
+      "item_a": "Cabeça, Membros Superiores e Membros Inferiores",
+      "item_b": "Cabeça, Tronco e Membros",
+      "item_c": "Crânio, Tórax e Quadril",
+      "item_d": "Tecido, Órgão e Sistema",
+      "gabarito": "item_b",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 50,
+      "pergunta": "Em qual órgão o Sistema Muscular atua com movimentos involuntários?",
+      "item_a": "Rins",
+      "item_b": "Artérias",
+      "item_c": "Cérebro",
+      "item_d": "Coração",
+      "gabarito": "item_d",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 51,
+      "pergunta": "Quais são as classificações dos Tecidos?",
+      "item_a": "Esquelética, Liso e Cardíaca",
+      "item_b": "Frouxo, Denso, Pavimentoso e Cilíndrico",
+      "item_c": "Pseudoestratificado, Simples, Adiposo e Esquelético",
+      "item_d": "Epitelial, Conjuntivo, Muscular e Nervoso",
+      "gabarito": "item_d",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 52,
+      "pergunta": "Qual função possui o núcleo de uma célula?",
+      "item_a": "Controlar atividades hormonais",
+      "item_b": "Armazenar informações genéticas",
+      "item_c": "Absorver nutrientes para o funcionamento da célula",
+      "item_d": "Nenhuma das alternativas",
+      "gabarito": "item_b",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 53,
+      "pergunta": "Para regular a composição química do sangue, onde as substâncias tóxicas são eliminadas?",
+      "item_a": "Na urina",
+      "item_b": "No suor",
+      "item_c": "Nas fezes",
+      "item_d": "Na troca de gases através da respiração",
+      "gabarito": "item_a",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 54,
+      "pergunta": "Quando a água passa do estado sólido para o líquido, ela sofre ____, e esse é um fenômeno____. O que completa a frase?",
+      "item_a": "ebulição - físico",
+      "item_b": "ebulição - químico",
+      "item_c": "fusão - físico",
+      "item_d": "fusão - químico",
+      "gabarito": "item_c",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 55,
+      "pergunta": "Albert Einstein recebeu o Prêmio Nobel da Física por qual teoria?",
+      "item_a": "Lei da Inércia",
+      "item_b": "Teoria da Relatividade",
+      "item_c": "Cálculo da aceleração",
+      "item_d": "Lei do Efeito Fotoelétrico",
+      "gabarito": "item_d",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 56,
+      "pergunta": "Como se chama a reação entre ácido e base que resulta em sal e água?",
+      "item_a": "Reação Igualitária",
+      "item_b": "Neutralização",
+      "item_c": "Combustão",
+      "item_d": "Acidose Básica",
+      "gabarito": "item_b",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 57,
+      "pergunta": "Qual organela de uma célula é responsável por realizar a produção de proteínas?",
+      "item_a": "Mitocôndrias",
+      "item_b": "Lisossomos",
+      "item_c": "Ribossomos",
+      "item_d": "Cloroplastos",
+      "gabarito": "item_c",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 58,
+      "pergunta": "Qual o método de separação de mistura mais eficaz para separar água e etanol?",
+      "item_a": "Destilação fracionada",
+      "item_b": "Destilação simples",
+      "item_c": "Decantação",
+      "item_d": "Filtração",
+      "gabarito": "item_a",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 59,
+      "pergunta": "Quais foram os primeiros animais invertebrados a surgir?",
+      "item_a": "Sapos",
+      "item_b": "Crustáceos",
+      "item_c": "Poríferos",
+      "item_d": "Artrópodes",
+      "gabarito": "item_c",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 60,
+      "pergunta": "Qual a principal característica dos mamíferos?",
+      "item_a": "Possuem glândulas mamárias  ",
+      "item_b": "Nenhuma dessas",
+      "item_c": "Possuem pelos",
+      "item_d": "Possuem penas",
+      "gabarito": "item_a",
+      "categoria": "Ciências"
+    },
+    {
+      "id": 61,
+      "pergunta": "Quem pintou 'Guernica'?",
+      "item_a": "Paul Cézanne",
+      "item_b": "Pablo Picasso",
+      "item_c": "Diego Rivera",
+      "item_d": "Salvador Dalí",
+      "gabarito": "item_b",
+      "categoria": "Artes"
+    },
+    {
+      "id": 62,
+      "pergunta": "Quem pintou o teto da capela sistina?",
+      "item_a": "Michelangelo",
+      "item_b": "Leonardo da Vinci",
+      "item_c": "Sandro Botticelli",
+      "item_d": "Donatello",
+      "gabarito": "item_a",
+      "categoria": "Artes"
+    },
+    {
+      "id": 63,
+      "pergunta": "As obras Abaporu, Operários e Antropofagia foram pintadas por qual artista brasileiro?",
+      "item_a": "Anita Malfatti",
+      "item_b": "Candido Potinari",
+      "item_c": "Di Cavalcanti",
+      "item_d": "Tarsila do Amaral",
+      "gabarito": "item_d",
+      "categoria": "Artes"
+    },
+    {
+      "id": 64,
+      "pergunta": "O que é o impressionismo?",
+      "item_a": "Pinturas modernas, destacando formas e cores do objeto",
+      "item_b": "Expressão dos setimentos do mundo interior do artista",
+      "item_c": "retrata pessoas pobres e ricas",
+      "item_d": "a romântica retrata temas históricos e a realista temas sociais",
+      "gabarito": "item_a",
+      "categoria": "Artes"
+    },
+    {
+      "id": 65,
+      "pergunta": "Que temas a pintura romântica e a realista retratam?",
+      "item_a": "Pinturas modernas, destacando formas e cores do objeto",
+      "item_b": "Expressão dos setimentos do mundo interior do artista",
+      "item_c": "retrata pessoas pobres e ricas",
+      "item_d": "a romântica retrata temas históricos e a realista temas sociais",
+      "gabarito": "item_d",
+      "categoria": "Artes"
+    },
+    {
+      "id": 66,
+      "pergunta": "O surrealismo consiste em...",
+      "item_a": "Sentimentos do mundo interior do artista",
+      "item_b": "Coisas fictícias (fora do nosso cotidiano)",
+      "item_c": "Representação subjetiva do mundo, de modo que fosse capaz de revelar as angústias da existência humana",
+      "item_d": "Apresentar uma visão de mundo centrada no ser humano com destaque para as sensações humanas e a liberdade de pensamento",
+      "gabarito": "item_b",
+      "categoria": "Artes"
+    },
+    {
+      "id": 67,
+      "pergunta": "As obras de Andy Warhol fazem parte de qual movimento artístico do século 20?",
+      "item_a": "Barroco",
+      "item_b": "Rococó",
+      "item_c": "Pop art",
+      "item_d": "Expressionismo",
+      "gabarito": "item_c",
+      "categoria": "Artes"
+    },
+    {
+      "id": 68,
+      "pergunta": "Qual artista é um dos principais nomes do barroco brasileiro?",
+      "item_a": "Aleijadinho",
+      "item_b": "Anita Malfati",
+      "item_c": "Oswald de Andrade",
+      "item_d": "Tomie Ohtake",
+      "gabarito": "item_a",
+      "categoria": "Artes"
+    },
+    {
+      "id": 69,
+      "pergunta": "Qual destes artistas fez parte da Tropicália?",
+      "item_a": "Romero Britto",
+      "item_b": "Oswald de Andrade",
+      "item_c": "Hélio Oiticica",
+      "item_d": "Lasar Segall",
+      "gabarito": "item_c",
+      "categoria": "Artes"
+    },
+    {
+      "id": 70,
+      "pergunta": "É um tipo de arte feita no espaço através de construções.São edificações criadas para acolher as pessoas e oferecer suporte para diversas atividades humanas.",
+      "item_a": "Gravura",
+      "item_b": "Xilogravura",
+      "item_c": "Arquitetura",
+      "item_d": "Escultura",
+      "gabarito": "item_c",
+      "categoria": "Artes"
+    },
+    {
+      "id": 71,
+      "pergunta": "Um tipo de arte que remonta à idade pré-histórica, quando já eram produzidas estatuetas de marfim, ossos, pedras e outros materiais.",
+      "item_a": "Imagem",
+      "item_b": "Desenho",
+      "item_c": "Escultura",
+      "item_d": "Gravura",
+      "gabarito": "item_c",
+      "categoria": "Artes"
+    },
+    {
+      "id": 72,
+      "pergunta": "Talvez o tipo de arte visual mais consagrado no Ocidente:",
+      "item_a": "Fotografia",
+      "item_b": "Pintura",
+      "item_c": "Cinema",
+      "item_d": "Escultura",
+      "gabarito": "item_b",
+      "categoria": "Artes"
+    },
+    {
+      "id": 73,
+      "pergunta": "Pode-se afirmar sobre a arte:",
+      "item_a": "Arte é apenas domínio de uma técnica",
+      "item_b": "Para o fazer artístico não é necessário habilidade, apenas talento",
+      "item_c": "O belo e o feio não são critérios para a avaliação de uma obra de arte",
+      "item_d": "A arte é uma forma de reinvenção da realidade, o artista reordena o mundo através de movimentos, formas, cores e sons",
+      "gabarito": "item_d",
+      "categoria": "Artes"
+    },
+    {
+      "id": 74,
+      "pergunta": "À EXCEÇÃO DE UMA, as alternativas abaixo apresentam de modo correto características do Renascimento. Assinale-a.",
+      "item_a": "O retorno aos valores do mundo clássico, na literatura, nas artes, nas ciências e na filosofia",
+      "item_b": "A valorização da experimentação como um dos caminhos para a investigação dos fenômenos da natureza",
+      "item_c": "A possibilidade de uma estreita relação entre os diferentes campos do conhecimento",
+      "item_d": "O fato de ter ocorrido com exclusividade nas cidades italianas",
+      "gabarito": "item_d",
+      "categoria": "Artes"
+    },
+    {
+      "id": 75,
+      "pergunta": "O mundo moderno está associado, na sua origem, à cultura renascentista. Assinale a afirmativa que pode ser corretamente associada ao Renascimento.",
+      "item_a": "O livro da natureza foi escrito em caracteres matemáticos. (Galileu)",
+      "item_b": "O homem é imagem e semelhança de Deus. (Jean Bodin)",
+      "item_c": "O mundo é perfeito porque é uma obra divina e, assim, só pode ser esférico. (Marsílio Ficino)",
+      "item_d": "A proporção é a qualidade matemática inadequada à representação do mundo natural. (Leonardo da Vinci)",
+      "gabarito": "item_a",
+      "categoria": "Artes"
+    },
+    {
+      "id": 76,
+      "pergunta": "As obras literárias produzidas durante o Renascimento privilegiam as seguintes características, exceto:",
+      "item_a": "Recuperação de temas da Antiguidade Clássica e racionalismo",
+      "item_b": "Perspectiva humanista e Universalidade",
+      "item_c": "Racionalismo e perspectiva humanistica",
+      "item_d": "Metafísica e religiosidade",
+      "gabarito": "item_d",
+      "categoria": "Artes"
+    },
+    {
+      "id": 77,
+      "pergunta": "Assinale a alternativa que contém características incompatíveis com o estilo de época conhecido por Barroco",
+      "item_a": "Contradições, sobrenatural humanizado, céu e terra ligados",
+      "item_b": "Gosto pela polêmica, pelo panfleto, colisão de cores e excesso de relevos",
+      "item_c": "Sentido de universalidade, racionalismo e objetividade",
+      "item_d": "As coisas, pessoas e ações não são descritas mas apenas evocadas e refletidas através da visão das personagens",
+      "gabarito": "item_c",
+      "categoria": "Artes"
+    },
+    {
+      "id": 78,
+      "pergunta": "Os pintores impressionistas buscavam registrar em suas obras, através da observação direta, as alterações provocadas pela luz nas:",
+      "item_a": "Influências climáticas",
+      "item_b": "Cores da natureza",
+      "item_c": "Formas dos objetos",
+      "item_d": "Linhas e formas",
+      "gabarito": "item_b",
+      "categoria": "Artes"
+    },
+    {
+      "id": 79,
+      "pergunta": "A técnica de direcionamentos ósseos e dos vetores é atribuída a:",
+      "item_a": "Ivaldo Bertazzo",
+      "item_b": "Rudolf Laban",
+      "item_c": "Klauss Vianna",
+      "item_d": "Pina Bausch",
+      "gabarito": "item_c",
+      "categoria": "Artes"
+    },
+    {
+      "id": 80,
+      "pergunta": "'Entre as diversas manifestações culturais que povoam o Ceará, a dança do coco está presente como prática popular do litoral ao sertão do estado'. Essa prática tem origem e influência cultural:",
+      "item_a": "europeia e africana",
+      "item_b": "francesa e indígena",
+      "item_c": "africana e francesa",
+      "item_d": "indígena e africana",
+      "gabarito": "item_d",
+      "categoria": "Artes"
+    },
+    {
+      "id": 81,
+      "pergunta": "Qual desses filmes foi baseado na obra de Shakespeare?",
+      "item_a": "Muito Barulho por Nada (2012)",
+      "item_b": "Capitães de Areia (2011)",
+      "item_c": "Excalibur (1981)",
+      "item_d": "A Revolução dos Bichos (1954)",
+      "gabarito": "item_a",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 82,
+      "pergunta": "Sobre o cinema, assinale a alternativa FALSA.",
+      "item_a": "O cinema é uma expressão artística e cultural de um povo",
+      "item_b": "A movimentação é o princípio básico do cinema",
+      "item_c": "O filme é uma sucessão de fotografias em movimentos",
+      "item_d": "As animações também fazem parte da cultura cinematográfica",
+      "gabarito": "item_c",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 83,
+      "pergunta": "Podemos definir a FILMAGEM cinematográfica como:",
+      "item_a": "capacidade de captação de diversas fotografias em cada segundo",
+      "item_b": "capacidade de registrar uma imagem",
+      "item_c": "conjunto de atores, interpreta uma história ou atividades para o público em um determinado lugar",
+      "item_d": "parte do teatro grego, localizada entre o público e o palco",
+      "gabarito": "item_a",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 84,
+      "pergunta": "Eram as características dos filmes logo no início do cinema:",
+      "item_a": "Tinha alta definição",
+      "item_b": "Os filmes eram em preto e branco, tinham sons e era comum a colocação de legendas para entender outras línguas",
+      "item_c": "Os filmes eram coloridos, não tinham sons e era comum a colocação de legendas para o público entender a história",
+      "item_d": "Os filmes eram em preto e branco, não tinham sons e era comum a colocação de legendas para o público entender a história",
+      "gabarito": "item_d",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 85,
+      "pergunta": "A implementação de áudio nos filmes foi um desafio para os produtores do cinema, todavia, o mundo apreciou um grande artista na história do cinema que conseguiu interpretar narrativas sem a necessidade de falar uma palavra. Quem foi esse ator e compositor?",
+      "item_a": "Charles Émile Reynaud",
+      "item_b": "Auguste e Louis Lumière",
+      "item_c": "Charlie Chaplin",
+      "item_d": "Thomas Edison",
+      "gabarito": "item_c",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 86,
+      "pergunta": "Assinale a alternativa FALSA.",
+      "item_a": "Os italianos contribuíram para o desenvolvimento do cinema no Brasil",
+      "item_b": "O Brasil foi um grande produtor de filmes de ficção no início do cinema",
+      "item_c": "A fotografia foi uma invenção importante para o desenvolvimento do cinema",
+      "item_d": "O primeiro filme apresentado no cinema foi a exibição da chegada de um trem",
+      "gabarito": "item_b",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 87,
+      "pergunta": "O filme chega ao Brasil no ano de:",
+      "item_a": "1902",
+      "item_b": "1895",
+      "item_c": "1896",
+      "item_d": "1927",
+      "gabarito": "item_c",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 88,
+      "pergunta": "Em que a no foi feita a primeira exibição pública cinematográfica?",
+      "item_a": "1986",
+      "item_b": "1900",
+      "item_c": "1870",
+      "item_d": "1895",
+      "gabarito": "item_d",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 89,
+      "pergunta": "Qual o filme mais premiado da história?",
+      "item_a": "Senhro dos Anéis: O Retorno do Rei",
+      "item_b": "Harry Potter",
+      "item_c": "Avatar",
+      "item_d": "Tudo em Todo o Lugar",
+      "gabarito": "item_d",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 90,
+      "pergunta": "Qual o filme com mais vendas de bilheteria atualmente?",
+      "item_a": "Avatar",
+      "item_b": "Vingadore: Ultimato",
+      "item_c": "O Rei Leão",
+      "item_d": "Titanic",
+      "gabarito": "item_a",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 91,
+      "pergunta": "Qual o primeiro filme de animação lançado pela Disney?",
+      "item_a": "Branca de Neve e os Sete Anões",
+      "item_b": "Cinderela",
+      "item_c": "Mickey Mouse",
+      "item_d": "Ariel",
+      "gabarito": "item_a",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 92,
+      "pergunta": "Onde foi feita a exibição do primeiro filme da história?",
+      "item_a": "Itália",
+      "item_b": "Estados Unidos",
+      "item_c": "Alemanha",
+      "item_d": "Paris",
+      "gabarito": "item_d",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 93,
+      "pergunta": "Em que ano a Disney foi fundada?",
+      "item_a": "29 de setembro de 1900",
+      "item_b": "16 de outubro de 1923",
+      "item_c": "4 de junho de 1925",
+      "item_d": "25 de maio de 1920",
+      "gabarito": "item_b",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 94,
+      "pergunta": "Em que país está localizado o maior cinema do mundo?",
+      "item_a": "Inglaterra",
+      "item_b": "Alemanha",
+      "item_c": "Bélgica",
+      "item_d": "França",
+      "gabarito": "item_b",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 95,
+      "pergunta": "Quanto tempo teve a primeira curta metragem da história?",
+      "item_a": "45 segundos",
+      "item_b": "1 minuto",
+      "item_c": "30 segundos",
+      "item_d": "2 minutos",
+      "gabarito": "item_a",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 96,
+      "pergunta": "Quem criou o primeiro filme?",
+      "item_a": "Brian De Palma e Howard Hawks",
+      "item_b": "Alfred Hitchcock e Steven Spilberg",
+      "item_c": "John Ford e Martin Scorsese",
+      "item_d": "Auguste e Loius Lumière",
+      "gabarito": "item_d",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 97,
+      "pergunta": "Qual destes vilões de filmes de terror foi um ícone do cinema nos anos 80?",
+      "item_a": "Ghostface",
+      "item_b": "Jason Voorhees",
+      "item_c": "Jigsaw",
+      "item_d": "Hannibal Lecter",
+      "gabarito": "item_b",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 98,
+      "pergunta": "Qual o nome do primeiro teatro construído para exibição de filmes?",
+      "item_a": "Edisonia Hall",
+      "item_b": "Cave do Boulevard des Capucines",
+      "item_c": "Grand café de Paris",
+      "item_d": "Cinemark",
+      "gabarito": "item_a",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 99,
+      "pergunta": "Qual foi o primeiro filme a ser exibido?",
+      "item_a": "Salão Indiano",
+      "item_b": "A Chegada do Trem a Estação de La Ciotat",
+      "item_c": "O Regador Regado",
+      "item_d": "Tempos Modernos",
+      "gabarito": "item_b",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 100,
+      "pergunta": "Em que ano ocorreu a primeira premiação do Oscar?",
+      "item_a": "1927",
+      "item_b": "1929",
+      "item_c": "1930",
+      "item_d": "1931",
+      "gabarito": "item_b",
+      "categoria": "Cinema"
+    },
+    {
+      "id": 101,
+      "pergunta": "Em que país nasceu Clarice Lispector?",
+      "item_a": "Portugal",
+      "item_b": "Ucrânia",
+      "item_c": "Rússia",
+      "item_d": "Brasil",
+      "gabarito": "item_b",
+      "categoria": "Geral"
+    },
+    {
+      "id": 102,
+      "pergunta": "De onde é a invenção do chuveiro elétrico?",
+      "item_a": "França",
+      "item_b": "Inglaterra",
+      "item_c": "Brasil",
+      "item_d": "Dinamarca",
+      "gabarito": "item_c",
+      "categoria": "Geral"
+    },
+    {
+      "id": 103,
+      "pergunta": "Quais as duas datas que são comemoradas em novembro?",
+      "item_a": "Independência do Brasil e Dia da Bandeira",
+      "item_b": "Proclamação da República e Dia Nacional da Consciência Negra",
+      "item_c": "Dia do Médico e Dia de São Lucas",
+      "item_d": "Black Friday e Dia da Árvore",
+      "gabarito": "item_b",
+      "categoria": "Geral"
+    },
+    {
+      "id": 104,
+      "pergunta": "Quais destas construções famosas ficam nos Estados Unidos?",
+      "item_a": "Estátua da Liberdade, Golden Gate Bridge e Empire State Building",
+      "item_b": "Estátua da Liberdade, Big Ben e The High Line",
+      "item_c": "Angkor Wat, Taj Mahal e Skywalk no Grand Canyon",
+      "item_d": "Lincoln Memorial, Sidney Opera House e Burj Khalifa",
+      "gabarito": "item_a",
+      "categoria": "Geral"
+    },
+    {
+      "id": 105,
+      "pergunta": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+      "item_a": "A Filosofia",
+      "item_b": "A Astronomia",
+      "item_c": "A Matemática",
+      "item_d": "A Mitologia",
+      "gabarito":"item_d",
+      "categoria": "Geral"
+    },
+    {
+      "id": 106,
+      "pergunta": "Complete o provérbio: A cavalo dado …    ",
+      "item_a": "tem medo de água fria",
+      "item_b": "sai caro",
+      "item_c": "não se olha os dentes",
+      "item_d": "não se olha o rabo",
+      "gabarito": "item_c",
+      "categoria": "Geral"
+    },
+    {
+      "id": 107,
+      "pergunta": "Júpiter e Plutão são os correlatos romanos de quais deuses gregos?",
+      "item_a": "Zeus e Hades",
+      "item_b": "Zeus e Ares",
+      "item_c": "Ares e Hermes",
+      "item_d": "Cronos e Apolo",
+      "gabarito": "item_a",
+      "categoria": "Geral"
+    },
+    {
+      "id": 108,
+      "pergunta": "Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?",
+      "item_a": "Charles Conrad, em 1969",
+      "item_b": "Buzz Aldrin, em 1969",
+      "item_c": "Charles Duke, em 1971",
+      "item_d": "Neil Armstrong, em 1969",
+      "gabarito": "item_d",
+      "categoria": "Geral"
+    },
+    {
+      "id": 109,
+      "pergunta": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+      "item_a": " Tipo A",
+      "item_b": " Tipo B",
+      "item_c": " Tipo AB",
+      "item_d": " Tipo O",
+      "gabarito": "item_d",
+      "categoria": "Geral"
+    },
+    {
+      "id": 110,
+      "pergunta": "Quem amamentou os gêmeos Rômulo e Remo?",
+      "item_a": "uma cabra",
+      "item_b": "uma loba",
+      "item_c": "uma gata",
+      "item_d": "uma vaca",
+      "gabarito": "item_b",
+      "categoria": "Geral"
+    },
+    {
+      "id": 111,
+      "pergunta": "No exterior de que famoso edifício francês foi construída uma enorme pirâmide de vidro em 1989?",
+      "item_a": " Torre Eiffel",
+      "item_b": "Arco do Triunfo",
+      "item_c": "Museu do Louvre",
+      "item_d": "Grand Palais",
+      "gabarito": "item_c",
+      "categoria": "Geral"
+    },
+    {
+      "id": 112,
+      "pergunta": "Em que século o continente europeu foi devastado pela peste bubônica?",
+      "item_a": "No século XIV",
+      "item_b": "No século XII",
+      "item_c": "No século XI",
+      "item_d": "No século X",
+      "gabarito": "item_a",
+      "categoria": "Geral"
+    },
+    {
+      "id": 113,
+      "pergunta": "Em que cidade ocorreu a Eco-92, a Conferência das Nações Unidas sobre ambiente e desenvolvimento?",
+      "item_a": "Assunção",
+      "item_b": "Montevidéu",
+      "item_c": "Rio de Janeiro",
+      "item_d": "Buenos Aires",
+      "gabarito": "item_c",
+      "categoria": "Geral"
+    },
+    {
+      "id": 114,
+      "pergunta": "Quantos graus são necessários para que dois ângulos sejam complementares?",
+      "item_a": "45",
+      "item_b": "60",
+      "item_c": "90",
+      "item_d": "180",
+      "gabarito": "item_c",
+      "categoria": "Geral"
+    },
+    {
+      "id": 115,
+      "pergunta": "Qual destas obras arquitetônicas brasileiras é uma das Sete Maravilhas do Mundo Moderno?",
+      "item_a": "Elevador Lacerda",
+      "item_b": "Estação da Luz",
+      "item_c": "Palácio da Alvorada",
+      "item_d": "Cristo Redentor",
+      "gabarito": "item_d",
+      "categoria": "Geral"
+    },
+    {
+      "id": 116,
+      "pergunta": "Em que ano e onde aconteceu o maior acidente aéreo da história do Brasil?",
+      "item_a": "Ano 2007, em São Paulo",
+      "item_b": "Ano 2006, no Mato Grosso",
+      "item_c": "Ano 1982, no Ceará",
+      "item_d": "Ano 1996, em São Paulo",
+      "gabarito": "item_a",
+      "categoria": "Geral"
+    },
+    {
+      "id": 117,
+      "pergunta": "Que país tem o formato de uma bota?",
+      "item_a": "Itália",
+      "item_b": "Portugal",
+      "item_c": "Butão",
+      "item_d": "México",
+      "gabarito": "item_a",
+      "categoria": "Geral"
+    },
+    {
+      "id": 118,
+      "pergunta": "Quem inventou a lâmpada?",
+      "item_a": "Graham Bell",
+      "item_b": "Santos Dumont",
+      "item_c": "Thomas Edison",
+      "item_d": "Henry Ford",
+      "gabarito": "item_c",
+      "categoria": "Geral"
+    },
+    {
+      "id": 119,
+      "pergunta": "Quanto tempo a Terra demora para dar uma volta completa em torno dela mesma?",
+      "item_a": "365 dias",
+      "item_b": "Aproximadamente 24 horas",
+      "item_c": "7 dias",
+      "item_d": "30 ou 31 dias",
+      "gabarito": "item_b",
+      "categoria": "Geral"
+    },
+    {
+      "id": 120,
+      "pergunta": "A que temperatura a água ferve?",
+      "item_a": "200 ºC",
+      "item_b": "-10 ºC",
+      "item_c": "0 ºC",
+      "item_d": "100 ºC",
+      "gabarito": "item_d",
+      "categoria": "Geral"
+    }
+  ]
+}
